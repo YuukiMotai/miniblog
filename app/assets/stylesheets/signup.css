@@ -1,0 +1,22 @@
+body{
+  color: #333333;
+}
+a, a:visited{
+  text-decoration: none;
+  color: #333333;
+}
+div.panel{
+  border:0.1px solid #333333;
+  width:270px;
+  padding: 30px;
+  margin:0 auto;
+}
+div.wrapper{
+  text-align: center;
+}
+div.mb30{
+  margin-bottom: 30px;
+}
+div.field{
+  margin-top: 10px;
+}
